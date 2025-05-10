@@ -52,9 +52,6 @@ Thanks to our EEP 112 instructors and teaching assistants for their support and 
 
 ---
 
-
-
-=======
 # Avo-Digital-Multimeter
 Arduino-based Digital Multimeter (DMM) for EEP 112 Measurements Course
 
