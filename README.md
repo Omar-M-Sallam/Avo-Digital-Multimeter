@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Avo Project – Arduino-Based Digital Multimeter (EEP 112)
 
 🚀 **Course Project for EEP 112 – Electrical Measurements**
@@ -58,4 +57,4 @@ Thanks to our EEP 112 instructors and teaching assistants for their support and 
 =======
 # Avo-Digital-Multimeter
 Arduino-based Digital Multimeter (DMM) for EEP 112 Measurements Course
->>>>>>> 051975c72a0b32b196da433681f4c5b71f5debb1
+
